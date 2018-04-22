@@ -107,3 +107,6 @@ var b = Math.floor(Math.random() * 256);
 
 return "rgb(" + r + ", " + g + ", " + b + ")";
 }
+
+
+// might dwarves once ruled the carebear kingdom!
